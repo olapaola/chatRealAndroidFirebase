@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chat Real Firebase</string>
+    <string name="welcome_msg">Hola, bienvenido al servicio digital de los Reyes Magos!</string>
+    <string name="default_name">Paje Real</string>
+    <string name="default_photo_url">https://firebasestorage.googleapis.com/v0/b/react-firebase-chat-74da6.appspot.com/o/img%2Fpaje_real.png?alt=media&amp;token=7c2a5fd4-09ac-4997-8c50-ae9e1de8fca7</string>
+    <string name="bye_msg">Genial! Ha sido un placer hablar contigo! Busca más retos en navidadconfirebase.es y para más información sobre Firebase consulta la documentación en http://g.co/firebase/bits. Recuerda nos seguimos en el hashtag #navidadconfirebase! Un abrazo!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="default_msg">Estupendo. Quiero saber más de ti. ¿Que lenguaje, librería o framework usas ahora o quieres aprender? ¿Android, Polymer, Angular, React...?</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign in.</string>
+    <string name="invite_menu_label">Chat Real Invite</string>
+    <string name="invitation_message">Hola, mira que app más chula #navidadconfirebase.</string>
+    <string name="invitation_cta">Descargala</string>
+    <string name="invitation_title">Invitación al chat Real de #navidadconfirebase</string>
+    <string name="sign_in">#navidadconfirebase</string>
+    <string name="sign_up">Sign Up</string>
+
+</resources>
